@@ -135,6 +135,12 @@ migration plans.
 
 ### Required Actions
 
+> Comment from cloud.gov: This strategy lists 19 actions, but has only listed 1 (phishing-resistant verifiers) as the top priority.
+
+> For the other 18, unless OMB wants none of them complete for another 3 years, they should be in designated priority tiers. The nation's cybersecurity needs will be best met if the highest priority actions are completed sooner, and lower priority actions later.
+
+> Or, OMB should direct agencies to adopt a WSJF prioritization process and direct them to complete first the actions that provide the highest value, in the least time, before moving on to other actions.
+
 **This memorandum requires agencies to achieve specific zero trust
 security goals by the end of Fiscal Year (FY) 2024**. Grouped using the
 five pillars that underpin the [zero trust maturity model](https://cisa.gov/publication/zero-trust-maturity-model) of the
